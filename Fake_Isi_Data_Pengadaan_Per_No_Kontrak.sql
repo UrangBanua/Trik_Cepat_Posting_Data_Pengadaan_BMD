@@ -4,6 +4,7 @@ GO
 /*** Powered By https://github.com/UrangBanua ***/
 
 DECLARE @Tahun varchar(4), @No_Kontrak varchar(50), @Posting tinyint
+
 -- Sesuaiakan Data yg Handak di Posting
 SET @Tahun = '2021'
 SET @No_Kontrak = '237/SP3B/BPSD/DIK/II/2021'
