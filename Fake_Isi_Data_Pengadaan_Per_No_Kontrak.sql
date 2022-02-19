@@ -2,7 +2,6 @@ USE [bmd_hst2020]
 GO
 
 /*** Powered By https://github.com/UrangBanua ***/
-
 DECLARE @Tahun varchar(4), @No_Kontrak varchar(50), @Posting tinyint
 
 -- Sesuaiakan Data yg Handak di Posting
