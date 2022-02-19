@@ -7,6 +7,7 @@ GO
 ALTER PROCEDURE [dbo].[SP_Ta_Pengadaan_Rinc_Ta_KIB] @Tahun varchar(4), @No_Kontrak varchar(50), @Pil tinyint, @Posting tinyint
 WITH ENCRYPTION
 AS
+
 /*
 DECLARE @Tahun varchar(4), @No_Kontrak varchar(50), @Pil tinyint, @Posting tinyint
 SET @Tahun = '2019'
