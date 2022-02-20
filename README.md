@@ -7,4 +7,4 @@ CARA CEPAT PROSES POSTING  DATA PENGADAAN PADA APLIKASI BMD
 - Query Profiller Runtime Proses
 ![image](https://user-images.githubusercontent.com/58909061/154807937-107da9ae-1747-4b04-844a-e3bbdc0431bf.png)
 
-# Link Video : ...
+# Link Video : https://youtu.be/grcr6KTeM-w
